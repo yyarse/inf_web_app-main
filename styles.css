@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 800px;
+    margin: 100px auto;
+    text-align: center;
+    padding: 50px;
+    background-color: #f4f4f4;
+    border-radius: 3px;
+    box-shadow: 0 3px 5px rgb(0 0 0 / 63%);
+}
+
+.container>.ec2-div {
+    color:rgb(19, 185, 197);
+    font-weight: 500;
+}
+
+.container>div {
+    margin: 5px;
+    color:#8a2be2;
+}
